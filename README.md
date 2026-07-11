@@ -6,8 +6,8 @@ This project was created using Cisco Packet Tracer.
 
 ### Team
 - Hassan Al-Matrood
-- Team Member 2
-- Team Member 3
+- Mohammed Alqarni
+- Ameer Alsulami
 
 ### Devices
 - 2 Cisco 1941 Routers
