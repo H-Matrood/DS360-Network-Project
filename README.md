@@ -1,21 +1,33 @@
 # DS360 Network Project
 
-## Phase 1
+## Course
+DS360 – Computer Networks
 
-This project was created using Cisco Packet Tracer.
+## Project
+Phase 1
 
-### Team
+## Project Description
+This project focuses on designing and configuring a small enterprise network using Cisco Packet Tracer. During Phase 1, the team completed the initial network topology, prepared the IPv4 addressing plan, configured static routing, and documented the project progress.
+
+## Team Members
 - Hassan Al-Matrood
 - Mohammed Alqarni
 - Ameer Alsulami
 
-### Devices
+## Network Devices
 - 2 Cisco 1941 Routers
-- 4 Cisco 2960 Switches
+- 4 Cisco Catalyst 2960 Switches
 - 12 PCs
 
-### Routing
+## Network Configuration
+- IPv4 Addressing
 - Static Routing
+- Basic Network Topology
 
-### Status
-Phase 1 Completed
+## Repository Contents
+- `DS360_Phase1.pkt` – Cisco Packet Tracer project
+- `DS360_Project-Phase 1.docx` – Phase 1 progress report
+- `README.md` – Project overview
+
+## Status
+✅ Phase 1 Completed
