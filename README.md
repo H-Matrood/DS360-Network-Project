@@ -24,6 +24,16 @@ This project focuses on designing and configuring a small enterprise network usi
 - Static Routing
 - Basic Network Topology
 
+## Network Addressing Summary
+
+| Network | Subnet |
+|---------|---------------|
+| LAN 1 | 172.16.10.0/24 |
+| LAN 2 | 172.16.20.0/24 |
+| LAN 3 | 172.16.30.0/24 |
+| LAN 4 | 172.16.40.0/24 |
+| WAN | 10.10.10.0/30 |
+
 ## Repository Contents
 - `DS360_Phase1.pkt` – Cisco Packet Tracer project
 - `DS360_Project-Phase 1.docx` – Phase 1 progress report
